@@ -157,7 +157,6 @@ Produk
    HPLNHTAG     5.000
    HPLNITAG     3.500
    HPLNKTAG     2.200
-   HPLNXTAG     1.800
 
 
 **PLN Nontaglis (Non Tagihan Listrik)**
@@ -175,7 +174,6 @@ Produk
    HPLNGNONTAG  4.500
    HPLNHNONTAG  5.000
    HPLNINONTAG  3.500
-   HPLNXNONTAG  1.800
 
 
 **Pulsa**
@@ -184,25 +182,25 @@ Produk
 
    Kode         Provider
    ===========  =========
-   IM3-A 20K    INDOSAT
-   IM3-B 30K    INDOSAT
-   IM3-C 50K    INDOSAT
-   IM3-D 100K   INDOSAT
-   TSN20        TELKOMSEL
-   TSN25        TELKOMSEL
-   TSN50        TELKOMSEL
-   TSN100       TELKOMSEL
+   IM3-A 20K    Indosat
+   IM3-B 30K    Indosat
+   IM3-C 50K    Indosat
+   IM3-D 100K   Indosat
+   TSN20        Telkomsel
+   TSN25        Telkomsel
+   TSN50        Telkomsel
+   TSN100       Telkomsel
 
 
-**TELKOM**
+**Telkom**
 
 .. code-block:: c
 
    Kode         Produk      
    ===========  ============
-   THALO        KARTU HALO  
-   TSPEEDY      SPEEDY      
-   TJASTEL      TELPON RUMAH
+   THALO        Kartu Halo
+   TSPEEDY      Speedy
+   TJASTEL      Telpon Rumah
 
 
 **TV Berlangganan**

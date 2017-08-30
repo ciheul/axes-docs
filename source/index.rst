@@ -3,18 +3,28 @@
    You can adapt this file completely to your liking, but it should at least
    contain the root `toctree` directive.
 
-Welcome to AxesPay's documentation!
-===================================
+AxesPay API
+===========
 
-.. toctree::
-   :maxdepth: 2
-   :caption: Contents:
+.. .. toctree::
+..    :maxdepth: 2
+..    :caption: Contents:
+..
+..
+..
+.. Indices and tables
+.. ==================
+..
+.. * :ref:`genindex`
+.. * :ref:`modindex`
+.. * :ref:`search`
 
 
+H2H Inquiry Request
+-------------------
 
-Indices and tables
-==================
+.. code-block:: xml
 
-* :ref:`genindex`
-* :ref:`modindex`
-* :ref:`search`
+   <inquiry>
+     <userid>ID MITRA</userid>
+   </inquiry>

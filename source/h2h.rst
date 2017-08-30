@@ -1,6 +1,21 @@
 Host to Host (H2H)
 ==================
 
+Untuk melakukan transaksi Host to Host (H2H), mitra AxesPay dapat memilih salah satu dari 2 cara yang disediakan, yaitu XML-RPC dan HTTP POST.
+
+.. **Parameter**
+..
+.. ========= ======
+.. Parameter Type
+.. ========= ======
+.. REQUESTID integer
+.. MSISDN    string
+..
+..
+.. **HTTP POST**
+..
+.. Jika menggunakan cara HTTP POST, 
+
 XML Inquiry
 -----------
 
